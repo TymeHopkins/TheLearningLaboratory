@@ -1,6 +1,6 @@
 # The Learning Laboratory
 ## Overview
-The Learning Laboratory is a repository designed to foster knowledge exploration. It houses a collection of lectures and corresponding lesson notes, providing a comprehensive resource for anyone seeking to delve deeper into a particular topic. Whether you're a student following a specific course or an independent learner, this lab offers the tools and materials to fuel your intellectual curiosity. See this list below of the following courses and topics covered within this repository.
+I developed The Learning Laboratory repository to foster knowledge exploration. It houses a collection of lectures and corresponding lesson notes, providing a comprehensive resource for anyone seeking to delve deeper into a particular topic. Whether a student following a specific course or an independent learner, this lab offers the tools and materials to fuel your intellectual curiosity. Please take a look at the list below of the following courses and topics covered within this repository.
 
 * How to Present
 * How to Communicate
