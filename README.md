@@ -2,12 +2,13 @@
 ## Overview
 I developed The Learning Laboratory repository to foster knowledge exploration. It houses a collection of lectures and corresponding lesson notes, providing a comprehensive resource for anyone seeking to delve deeper into a particular topic. Whether a student following a specific course or an independent learner, this lab offers the tools and materials to fuel your intellectual curiosity. Please take a look at the list below of the following courses and topics covered within this repository.
 
-* 000-TLL-TymeHopkins: How to Present
-* 001-TLL-TymeHopkins: How to Communicate
-* 002-TLL-TymeHopkins: How to Engineer
-* 003-TLL-TymeHopkins: How to Conduct Research and Develop/Publish Whitepapers
-* 004-TLL-TymeHopkins: Introduction to Embedded Systems
-* 005-TLL-TymeHopkins: Introduction to Neural Networks and Artificial Intelligence
+* 000-TLL-TymeHopkins: Introduction to Git and GitHub
+* 001-TLL-TymeHopkins: How to Present
+* 002-TLL-TymeHopkins: How to Communicate
+* 003-TLL-TymeHopkins: How to Engineer
+* 004-TLL-TymeHopkins: How to Conduct Research and Develop/Publish Whitepapers
+* 005-TLL-TymeHopkins: Introduction to Embedded Systems
+* 006-TLL-TymeHopkins: Introduction to Neural Networks and Artificial Intelligence
 
 ## License
 PLEASE READ CAREFULLY BEFORE UTILIZING THIS REPOSITORY
