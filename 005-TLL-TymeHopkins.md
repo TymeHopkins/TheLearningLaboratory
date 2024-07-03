@@ -12,6 +12,9 @@ Embedded systems are widely used and often rather complex in their intricacies. 
     2. [Section 2: UART, SPI, and I2C](#section-2-uart-spi-and-i2c)
 2. [Chapter 2: Rivest-Shamir-Adleman](#chapter-2-rivest-shamir-adleman-rsa)
 ## Chapter 1: Serial Data Communication
+### Chapter 1 Contents
+1. [Section 1: What is Serial Data?](#section-1-what-is-serial-data)
+2. [Section 2: UART, SPI, and I2C](#section-2-uart-spi-and-i2c)
 
 ### Section 1: What is Serial Data?
 Serial data and communication is...
